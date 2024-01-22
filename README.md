@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrashanthKumarMethari
-- 👀 I’m interested in developing software products
-- 🌱 I’m currently learning Java Programming
-- 💞️ I’m looking to collaborate on different Java Projects
+- 👀 I’m interested in automating web applications and Mobile Applications using diffferent frameworks available in the market.
+- 🌱 I’m currently building Hybrid Framework to automate test cases involved in e-Banking Application.
+- 💞️ I’m looking to collaborate on different Test Automation Projects
 - 📫 You can connect me on prashanthkumar.methari@gmail.com ...
 
 <!---
